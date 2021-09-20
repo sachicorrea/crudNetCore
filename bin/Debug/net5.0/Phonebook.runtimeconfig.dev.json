@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/scorrea/.dotnet/store/|arch|/|tfm|",
+      "/home/scorrea/.nuget/packages"
+    ]
+  }
+}
